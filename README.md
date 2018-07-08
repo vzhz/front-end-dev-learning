@@ -13,3 +13,10 @@ A list of resources for further learning
 2. [GH Markdown viewer](https://packagecontrol.io/packages/GitHub%20Flavored%20Markdown%20Preview) for Sublime
 3. [GH Markdown docs](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 4. [Choose a license](https://choosealicense.com/)
+
+### bash commands
+1. [Drag-n-drop customization for your bash](http://bashrcgenerator.com/)
+2. [A game to learn bash commands!](https://www.bash.academy/)
+3. [Beginner's wiki](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
+4. [Starting w/ shell scripts](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+5. Trying out [regular expressions](https://regexr.com/)
