@@ -20,3 +20,10 @@ A list of resources for further learning
 3. [Beginner's wiki](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/)
 4. [Starting w/ shell scripts](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 5. Trying out [regular expressions](https://regexr.com/)
+
+### version control
+1. [Wiki on distrubuted model](https://en.wikipedia.org/wiki/Distributed_version_control)
+2. [Centralized vs distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
+3. [Key terms cheat sheet](http://video.udacity-data.com.s3.amazonaws.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf)
+4. Learn [more about SHA](https://www.udacity.com/course/intro-to-computer-science--cs101)
+
