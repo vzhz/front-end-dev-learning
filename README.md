@@ -32,3 +32,6 @@ A list of resources for further learning
 8. [Git status tutorial](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
 9. [Git status explanation](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
 10. [Git status docs](https://git-scm.com/docs/git-status)
+11. [Recording changes to repo](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
+12. [Git status docs](https://git-scm.com/docs/git-status)
+
