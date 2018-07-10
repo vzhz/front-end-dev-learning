@@ -26,4 +26,9 @@ A list of resources for further learning
 2. [Centralized vs distributed](https://www.atlassian.com/blog/software-teams/version-control-centralized-dvcs)
 3. [Key terms cheat sheet](http://video.udacity-data.com.s3.amazonaws.com/topher/2017/March/58d31eb5_ud123-git-keyterms/ud123-git-keyterms.pdf)
 4. Learn [more about SHA](https://www.udacity.com/course/intro-to-computer-science--cs101)
-
+5. [Git configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+6. [Git init docs](https://git-scm.com/docs/git-init)
+7. When starting project, [configure editor](https://editorconfig.org/), add linters for [HTML](http://htmlhint.com/), [CSS](https://stylelint.io/), [JS](https://eslint.org/). A "starter" project can be made that you clone when beginning something new that contains your fave defaults as well as a <code>js</code>, <code>css</code>, and <code>img</code> directory.
+8. [Git status tutorial](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+9. [Git status explanation](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
+10. [Git status docs](https://git-scm.com/docs/git-status)
