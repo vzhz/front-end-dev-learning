@@ -34,4 +34,7 @@ A list of resources for further learning
 10. [Git status docs](https://git-scm.com/docs/git-status)
 11. [Recording changes to repo](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Checking-the-Status-of-Your-Files)
 12. [Git status docs](https://git-scm.com/docs/git-status)
-
+13. More about sha [here](https://www.udacity.com/course/intro-to-computer-science--cs101)
+14. More about [command line](https://www.udacity.com/course/linux-command-line-basics--ud595)
+15. [Patches with -p](https://git-scm.com/docs/git-diff#_generating_patches_with_p)
+16. [Git diff docs, flags](https://git-scm.com/docs/git-diff)
