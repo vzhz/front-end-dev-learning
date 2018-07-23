@@ -38,3 +38,5 @@ A list of resources for further learning
 14. More about [command line](https://www.udacity.com/course/linux-command-line-basics--ud595)
 15. [Patches with -p](https://git-scm.com/docs/git-diff#_generating_patches_with_p)
 16. [Git diff docs, flags](https://git-scm.com/docs/git-diff)
+17. [Connecting your editor to Git](https://help.github.com/articles/associating-text-editors-with-git/)
+18. [First time Git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
