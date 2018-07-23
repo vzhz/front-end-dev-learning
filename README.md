@@ -40,3 +40,5 @@ A list of resources for further learning
 16. [Git diff docs, flags](https://git-scm.com/docs/git-diff)
 17. [Connecting your editor to Git](https://help.github.com/articles/associating-text-editors-with-git/)
 18. [First time Git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+19. Popular blogs with [guidelines](https://chris.beams.io/posts/git-commit/) [for](https://medium.com/@preslavrachev/what-s-with-the-50-72-rule-8a906f61f09c) [commits](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+20. Udacity [commit style guide](https://udacity.github.io/git-styleguide/)
