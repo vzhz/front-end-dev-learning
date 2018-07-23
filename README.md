@@ -43,5 +43,5 @@ A list of resources for further learning
 19. Popular blogs with [guidelines](https://chris.beams.io/posts/git-commit/) [for](https://medium.com/@preslavrachev/what-s-with-the-50-72-rule-8a906f61f09c) [commits](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 20. Udacity [commit style guide](https://udacity.github.io/git-styleguide/)
 21. [Git diff docs](https://git-scm.com/docs/git-diff)
-22. [Globbing] for .gitignore-ing catagories of files
+22. [Globbing](https://en.wikipedia.org/wiki/Glob_(programming) for .gitignore-ing catagories of files
 23. [Lots](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files) [on](https://git-scm.com/docs/gitignore#_pattern_format) [.gitignore](https://help.github.com/articles/ignoring-files/), & this [tool](https://www.gitignore.io/)
