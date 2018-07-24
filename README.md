@@ -45,3 +45,4 @@ A list of resources for further learning
 21. [Git diff docs](https://git-scm.com/docs/git-diff)
 22. [Globbing](https://en.wikipedia.org/wiki/Glob_(programming) for .gitignore-ing catagories of files
 23. [Lots](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#Ignoring-Files) [on](https://git-scm.com/docs/gitignore#_pattern_format) [.gitignore](https://help.github.com/articles/ignoring-files/), & this [tool](https://www.gitignore.io/)
+24. [Git tag](https://git-scm.com/docs/git-tag) for [tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging) releases and major changes
